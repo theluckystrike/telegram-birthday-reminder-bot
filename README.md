@@ -1,6 +1,6 @@
 # BirthdayReminderProBot — birthday reminders for Telegram
 
-**Try it:** [@BirthdayReminderProBot](https://t.me/BirthdayReminderProBot) · [tg.zovo.one/bots/birthday/](https://tg.zovo.one/bots/birthday/)
+**Try it:** [@BirthdayReminderProBot](https://t.me/BirthdayReminderProBot?start=github) · [tg.zovo.one/bots/birthday/](https://tg.zovo.one/bots/birthday/)
 
 ## What it does
 
