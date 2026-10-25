@@ -1,5 +1,6 @@
 {
   "name": "birthdaybot-bot",
+  "repository": {"type": "git", "url": "theluckystrike/telegram-birthday-reminder-bot.git"},
   "private": true,
   "type": "module",
   "scripts": {
